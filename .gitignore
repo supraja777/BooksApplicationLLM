@@ -1,0 +1,23 @@
+# Python cache files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Deployment files
+*.log
+*.sqlite3
+*.db
+
+# macOS-specific files
+.DS_Store
